@@ -52,3 +52,8 @@ $ Flask run
     - https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1917s
 
 ## Photos: 
+<img width="1728" alt="Screen Shot 2021-11-20 at 05 53 41" src="https://user-images.githubusercontent.com/64428362/146100232-ba01f13b-1242-4ff0-9822-ab1b46396f8b.png">
+
+<img width="938" alt="Screen Shot 2021-11-20 at 05 54 12" src="https://user-images.githubusercontent.com/64428362/146100188-ddaaa2c1-a895-413e-9643-11798820e791.png">
+
+<img width="949" alt="Screen Shot 2021-11-20 at 05 54 21" src="https://user-images.githubusercontent.com/64428362/146100204-f83a21af-031d-488f-9f38-ffbf45af2ed7.png">
